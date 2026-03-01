@@ -1,0 +1,9 @@
+- name: "hasmatha" 
+  dob:  "30-07-2001"
+  mbn:  9843947970
+  adress: "nrt"
+
+- name: "hameed" 
+  dob: "31-07-2002"
+  mbn: 98474689370
+  adress: "grt"
